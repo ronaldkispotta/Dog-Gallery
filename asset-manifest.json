@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dog-Gallery/static/css/main.9ec178d1.css",
+    "main.js": "/Dog-Gallery/static/js/main.9c1f3fdd.js",
+    "static/js/787.4eb0da41.chunk.js": "/Dog-Gallery/static/js/787.4eb0da41.chunk.js",
+    "index.html": "/Dog-Gallery/index.html",
+    "main.9ec178d1.css.map": "/Dog-Gallery/static/css/main.9ec178d1.css.map",
+    "main.9c1f3fdd.js.map": "/Dog-Gallery/static/js/main.9c1f3fdd.js.map",
+    "787.4eb0da41.chunk.js.map": "/Dog-Gallery/static/js/787.4eb0da41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ec178d1.css",
+    "static/js/main.9c1f3fdd.js"
+  ]
+}
